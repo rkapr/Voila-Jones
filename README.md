@@ -11,3 +11,6 @@ Dependencies:
 
 Prefer direct installation of above packages but if necessary, use req.txt to recreate the conda environment:
 `conda create --name <env> --file req.txt`
+
+Run Combine_Features.ipynb. It will create 2 .npy files containing features: one for faces and another for non-faces.
+Then run Adaboost.ipynb or Robust_features_adaboost.ipynb.
