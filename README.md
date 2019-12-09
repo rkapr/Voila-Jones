@@ -9,5 +9,5 @@ Dependencies:
 - imutils 0.5.3
 - cv2 4.1.1
 
-If necessary, use req.txt to recreate the conda environment:
+Prefer direct installation of above packages but if necessary, use req.txt to recreate the conda environment:
 `conda create --name <env> --file req.txt`
