@@ -15,3 +15,6 @@ Prefer direct installation of above packages but if necessary, use `req.txt` to 
 Please first run `Combine_Features.ipynb`. It will create 2 .npy files containing features: one for faces and another for non-faces.
 
 Then run `Robust_features_Adaboost.ipynb` (for part II in report) or `Adaboost.ipynb`  (for part III).
+
+Read Report here:
+https://htmlpreview.github.io/?https://github.com/rkapr/Voila-Jones/blob/master/Untitled.html
